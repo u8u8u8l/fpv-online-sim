@@ -1,5 +1,5 @@
 # fpv-online-sim
-a webscraped version of [lightning8113](https://lightning8113.itch.io/)'s drone sim. all credit to him. this is not my project, this is simply the source
+a webscraped version of [lightning8113's drone sim](https://lightning8113.itch.io/fpv-freestyle). all credit to him. this is not my project, this is simply the source
 
 ### INSTRUCTIONS FOR RUNNING
 > [!NOTE]
